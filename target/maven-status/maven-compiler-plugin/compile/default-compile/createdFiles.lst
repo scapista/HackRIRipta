@@ -1,0 +1,5 @@
+DBConnection/DBConnections.class
+Common/HelperMethods.class
+DataClasses/vehicleUpdates.class
+RiptaAttributeRipper.class
+DBConnection/vehicleBulkInserter.class
